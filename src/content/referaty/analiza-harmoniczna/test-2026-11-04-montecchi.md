@@ -1,5 +1,5 @@
 ---
-tytul: "Dimension-free estimates for Riesz transforms in the Laguerre setting"
+tytul: "Testowe: Dimension-free estimates for Riesz transforms in the Laguerre setting"
 prelegent: "Ilaria Montecchi"
 afiliacja: "Università di Genova"
 termin: "2026-11-04T10:15"
