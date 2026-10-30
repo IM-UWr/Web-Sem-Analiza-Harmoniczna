@@ -1,6 +1,6 @@
 ---
 tytul: "Testowe: Dimension-free estimates for Riesz transforms in the Laguerre setting"
-prelegent: "Ilaria Montecchi"
+prelegent: "Mister Test"
 afiliacja: "Università di Genova"
 termin: "2026-11-04T10:15"
 sala: "601"
