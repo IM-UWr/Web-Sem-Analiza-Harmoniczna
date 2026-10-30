@@ -11,6 +11,7 @@ kontakt: "Jacek.Dziubanski@math.uni.wroc.pl"
 archiwum: "http://www.impan.pl/~anowak/seminarium_AH.html"
 zaklad: "analiza-funkcjonalna"
 aktywne: true
+tresc_en: "The seminar is open to everyone interested."
 opublikowany: true
 ---
 
