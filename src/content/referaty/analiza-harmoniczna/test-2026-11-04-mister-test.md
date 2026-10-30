@@ -1,7 +1,7 @@
 ---
 tytul: "Testowe: Dimension-free estimates for Riesz transforms in the Laguerre setting"
 prelegent: "Mister Test"
-afiliacja: "Università di Genova"
+afiliacja: "Uniwersytet Test"
 termin: "2026-11-04T10:15"
 sala: "601"
 opublikowany: true
