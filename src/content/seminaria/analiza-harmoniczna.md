@@ -12,6 +12,8 @@ archiwum: "http://www.impan.pl/~anowak/seminarium_AH.html"
 zaklad: "analiza-funkcjonalna"
 aktywne: true
 tresc_en: "The seminar is open to everyone interested."
+haslo: "Operatory, mnożniki, rozwinięcia"
+haslo_en: "Operators, multipliers, expansions"
 opublikowany: true
 ---
 
