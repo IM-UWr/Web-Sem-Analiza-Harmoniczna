@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Analiza harmoniczna i rozwinięcia ortogonalne"
 nazwa_en: "Harmonic Analysis and Orthogonal Expansions"
 prowadzacy:
