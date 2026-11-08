@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Dimension-free estimates for Riesz transforms in the Laguerre setting"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"

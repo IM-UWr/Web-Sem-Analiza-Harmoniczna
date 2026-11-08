@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Multilinear singular integral operators with rough kernels"
 prelegent: "Lenka Slavíková"
 afiliacja: "Charles University, Prague"
